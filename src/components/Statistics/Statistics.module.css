@@ -1,0 +1,10 @@
+.wrapper {
+  text-align: center;
+}
+
+.text {
+  margin-bottom: 8px;
+  font-weight: 700;
+  color: bisque;
+  text-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
